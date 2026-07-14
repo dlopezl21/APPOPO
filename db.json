@@ -10,6 +10,14 @@
           "type": "application/pdf",
           "uploadedAt": "2026-07-14T07:44:47.331Z",
           "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/temario/tema_7/ORG_MI.pdf"
+        },
+        {
+          "name": "Organigrama Mi.pdf",
+          "path": "temario/tema_7/Organigrama_Mi.pdf",
+          "size": 943707,
+          "type": "application/pdf",
+          "uploadedAt": "2026-07-14T08:07:13.053Z",
+          "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/temario/tema_7/Organigrama_Mi.pdf"
         }
       ]
     }
@@ -98,7 +106,7 @@
   },
   "preguntasFalladas": [],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T07:59:49.393Z",
+  "ultimoSync": "2026-07-14T08:07:13.053Z",
   "historialExamenes": [],
   "flashcardsGeneradas": []
 }
