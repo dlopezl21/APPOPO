@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T11:51:08.072Z",
+  "ultimoSync": "2026-07-14T12:03:18.015Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -256,6 +256,14 @@
   "documentosTest": [
     {
       "id": 1784029468070,
+      "nombre": "infraciiones generales",
+      "filename": "infraciiones generales.pdf",
+      "path": "test_docs/files/infraciiones_generales.pdf",
+      "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/test_docs/files/infraciiones_generales.pdf",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": 1784030598015,
       "nombre": "infraciiones generales",
       "filename": "infraciiones generales.pdf",
       "path": "test_docs/files/infraciiones_generales.pdf",
@@ -759,5 +767,6 @@
       "explicacion": "El Artículo 62.b) de la Ley 5/2014 tipifica la retención indebida de documentación personal como una Infracción Grave para el personal de seguridad privada.",
       "id": 1784029485974.339
     }
-  ]
+  ],
+  "preguntasImpugnadas": []
 }
