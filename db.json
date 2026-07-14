@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T12:15:34.670Z",
+  "ultimoSync": "2026-07-14T12:15:41.117Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -253,16 +253,7 @@
     }
   ],
   "flashcardsGeneradas": [],
-  "documentosTest": [
-    {
-      "id": 1784030598015,
-      "nombre": "infraciiones generales",
-      "filename": "infraciiones generales.pdf",
-      "path": "test_docs/files/infraciiones_generales.pdf",
-      "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/test_docs/files/infraciiones_generales.pdf",
-      "mimeType": "application/pdf"
-    }
-  ],
+  "documentosTest": [],
   "preguntasGeneradas": [
     {
       "pregunta": "¿Cuál de las siguientes acciones se considera una Infracción Muy Grave según el artículo 35 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC)?",
