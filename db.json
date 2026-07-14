@@ -1,0 +1,22 @@
+{
+  "temario": {
+    "7": {
+      "vueltas": 0,
+      "archivos": [
+        {
+          "name": "ORG MI.pdf",
+          "path": "temario/tema_7/ORG_MI.pdf",
+          "size": 943707,
+          "type": "application/pdf",
+          "uploadedAt": "2026-07-14T07:44:47.331Z",
+          "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/temario/tema_7/ORG_MI.pdf"
+        }
+      ]
+    }
+  },
+  "calendario": {},
+  "planEstudio": null,
+  "preguntasFalladas": [],
+  "flashcardsDificiles": [],
+  "ultimoSync": "2026-07-14T07:44:47.331Z"
+}
