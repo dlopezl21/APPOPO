@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T12:03:18.015Z",
+  "ultimoSync": "2026-07-14T12:04:23.191Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -766,6 +766,171 @@
       "respuestaCorrecta": 2,
       "explicacion": "El Artículo 62.b) de la Ley 5/2014 tipifica la retención indebida de documentación personal como una Infracción Grave para el personal de seguridad privada.",
       "id": 1784029485974.339
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción constituye la perturbación de la seguridad ciudadana en reuniones o manifestaciones frente a las sedes del Congreso de los Diputados, el Senado y las asambleas legislativas de las comunidades autónomas, según la Ley Orgánica 4/2015?",
+      "opciones": [
+        "Infracción Muy Grave.",
+        "Infracción Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el Artículo 36 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), la perturbación grave de la seguridad ciudadana en reuniones o manifestaciones frente a las sedes de las instituciones legislativas se considera una infracción Grave.",
+      "id": 1784030663191.0522
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana, proyectar haces de luz sobre los pilotos o conductores de medios de transporte que puedan deslumbrarles o distraer su atención y provocar accidentes, es considerado una infracción de tipo:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 35 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), establece que proyectar haces de luz sobre pilotos o conductores con riesgo de deslumbrarlos o distraer su atención y provocar accidentes es una infracción Muy Grave.",
+      "id": 1784030663191.57
+    },
+    {
+      "pregunta": "De acuerdo con la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana, la negativa a identificarse a requerimiento de la autoridad o de sus agentes o la alegación de datos falsos o inexactos, cuando no sea constitutiva de delito, se tipifica como:",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), considera como infracción Grave la desobediencia o la resistencia a la autoridad o a sus agentes cuando no sean delito, así como la negativa a identificarse o la alegación de datos falsos o inexactos.",
+      "id": 1784030663191.0593
+    },
+    {
+      "pregunta": "Considerando la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana, ¿cuál de las siguientes acciones se clasifica como una Infracción Grave?",
+      "opciones": [
+        "La intrusión en inmuebles o instalaciones de uso público o privado sin autorización y fuera de las horas de apertura.",
+        "La intrusión en recintos o accesos de infraestructuras de servicios básicos, con riesgo cierto para la vida o integridad física de las personas.",
+        "El escalamiento de edificios o monumentos sin autorización cuando exista un riesgo cierto de ocasionar daños."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 36 de la Ley Orgánica 4/2015 (LPSC) califica como infracción Grave la intrusión en inmuebles o instalaciones de uso público o privado sin autorización y fuera de las horas de apertura. La intrusión en infraestructuras de servicios básicos con riesgo para la vida es Muy Grave (Art. 35), y el escalamiento con riesgo de daños es Leve (Art. 37).",
+      "id": 1784030663191.5059
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2000, sobre Derechos y Libertades de los Extranjeros en España (LOEX), ¿qué tipo de infracción constituye la contratación de trabajadores extranjeros sin autorización de trabajo cuando el número de trabajadores afectados sea significativo o las condiciones de trabajo sean degradantes?",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Leve.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 54 de la Ley Orgánica 4/2000 (LOEX) establece que la contratación de trabajadores extranjeros sin autorización de trabajo, si el número de afectados es significativo o las condiciones de trabajo degradantes, es una infracción Muy Grave.",
+      "id": 1784030663191.0178
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2000, sobre Derechos y Libertades de los Extranjeros en España (LOEX), ¿qué tipo de infracción supone que un extranjero se encuentre irregularmente en territorio español por carecer de autorización de residencia o tenerla caducada por más de tres meses?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 53 de la Ley Orgánica 4/2000 (LOEX) tipifica como infracción Grave encontrarse irregularmente en territorio español por no haber obtenido la prórroga de estancia, carecer de autorización de residencia o tenerla caducada por más de tres meses.",
+      "id": 1784030663191.8323
+    },
+    {
+      "pregunta": "Conforme al Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), ¿qué tipo de falta es el acoso laboral, sexual y por razón de sexo?",
+      "opciones": [
+        "Falta Grave.",
+        "Falta Muy Grave.",
+        "Falta Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010) clasifica el acoso laboral, sexual y por razón de sexo como una Falta Muy Grave.",
+      "id": 1784030663191.3965
+    },
+    {
+      "pregunta": "Según el Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), el consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de drogas tóxicas, estupefacientes o sustancias psicotrópicas se considera:",
+      "opciones": [
+        "Falta Muy Grave.",
+        "Falta Leve.",
+        "Falta Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 8 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010) establece que el consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de sustancias psicotrópicas constituye una Falta Grave.",
+      "id": 1784030663191.9482
+    },
+    {
+      "pregunta": "De acuerdo con el Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), ¿cuándo se considera una Falta Grave el descuido en la conservación de material o armamento?",
+      "opciones": [
+        "Cuando el descuido en la conservación del uniforme, del equipo, del armamento o del material de servicio, no constituye falta grave.",
+        "Cuando el descuido en la conservación del local, del material, del armamento o de los documentos de servicio origine deterioro o pérdida grave.",
+        "En cualquier caso de descuido, sin importar el resultado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010) especifica que el descuido en la conservación del local, del material, del armamento o de los documentos de servicio que origine deterioro o pérdida grave, es una Falta Grave. Si no origina deterioro o pérdida grave, puede ser Leve (Art. 9).",
+      "id": 1784030663191.0222
+    },
+    {
+      "pregunta": "Según la Ley 5/2014, de Seguridad Privada, ¿qué tipo de infracción comete una empresa de seguridad privada que presta servicios sin contar con la preceptiva autorización o inscripción?",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Muy Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 57, apartado a), de la Ley 5/2014, de Seguridad Privada, tipifica como Infracción Muy Grave la prestación de servicios de seguridad privada a terceros o la realización de actividades de seguridad privada sin contar con la preceptiva autorización o inscripción.",
+      "id": 1784030663191.5374
+    },
+    {
+      "pregunta": "Conforme a la Ley 5/2014, de Seguridad Privada, ¿qué tipo de infracción es la prestación de servicios de seguridad privada sin la previa celebración del correspondiente contrato escrito o sin haber presentado la declaración responsable requerida?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Muy Grave.",
+        "Infracción Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 58, apartado a), de la Ley 5/2014, de Seguridad Privada, establece que la prestación de servicios de seguridad privada sin la previa celebración del correspondiente contrato escrito o sin haber presentado la declaración responsable requerida es una Infracción Grave.",
+      "id": 1784030663191.524
+    },
+    {
+      "pregunta": "Según la Ley 5/2014, de Seguridad Privada, ¿cuál de las siguientes acciones por parte de los despachos de detectives privados se considera una Infracción Muy Grave?",
+      "opciones": [
+        "La no formalización del encargo de investigación por escrito.",
+        "La realización de investigaciones sobre delitos perseguibles de oficio, la no denuncia inmediata de hechos delictivos o la utilización de medios técnicos que atenten contra el honor.",
+        "La falta de comunicación de los cambios registrales del despacho."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 60 de la Ley 5/2014, de Seguridad Privada, especifica que la realización de investigaciones sobre delitos perseguibles de oficio, la no denuncia inmediata de hechos delictivos conocidos durante la investigación, o la utilización de medios técnicos que atenten contra el derecho al honor, a la intimidad personal o familiar o a la propia imagen son Infracciones Muy Graves para los despachos de detectives privados.",
+      "id": 1784030663191.275
+    },
+    {
+      "pregunta": "De acuerdo con la Ley 5/2014, de Seguridad Privada, ¿qué tipo de infracción comete el personal de seguridad privada que presta funciones sin estar en posesión de la correspondiente Tarjeta de Identidad Profesional (TIP) o acreditación?",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Muy Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 61, apartado a), de la Ley 5/2014, de Seguridad Privada, clasifica la prestación de funciones de seguridad privada sin estar en posesión de la correspondiente Tarjeta de Identidad Profesional (TIP) o acreditación como una Infracción Muy Grave para el personal de seguridad privada.",
+      "id": 1784030663191.1782
+    },
+    {
+      "pregunta": "Según la Ley 5/2014, de Seguridad Privada, la falta de respeto o de auxilio debido a los miembros de las Fuerzas y Cuerpos de Seguridad por parte del personal de seguridad privada es una infracción de tipo:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 62, apartado a), de la Ley 5/2014, de Seguridad Privada, considera la falta de respeto o de auxilio debido a los miembros de las Fuerzas y Cuerpos de Seguridad como una Infracción Grave para el personal de seguridad privada.",
+      "id": 1784030663191.108
+    },
+    {
+      "pregunta": "De acuerdo con la Ley 5/2014, de Seguridad Privada, el trato incorrecto o desconsiderado con los ciudadanos por parte del personal de seguridad privada en el ejercicio de sus funciones se considera una infracción:",
+      "opciones": [
+        "Grave.",
+        "Muy Grave.",
+        "Leve."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 63, apartado a), de la Ley 5/2014, de Seguridad Privada, establece que el trato incorrecto o desconsiderado con los ciudadanos por parte del personal de seguridad privada constituye una Infracción Leve.",
+      "id": 1784030663191.854
     }
   ],
   "preguntasImpugnadas": []
