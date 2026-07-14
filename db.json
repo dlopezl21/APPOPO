@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T12:17:39.276Z",
+  "ultimoSync": "2026-07-14T12:18:11.802Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -923,6 +923,171 @@
       "respuestaCorrecta": 2,
       "explicacion": "El Artículo 63, apartado a), de la Ley 5/2014, de Seguridad Privada, establece que el trato incorrecto o desconsiderado con los ciudadanos por parte del personal de seguridad privada constituye una Infracción Leve.",
       "id": 1784030663191.854
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana, ¿cuál de las siguientes acciones relativas a armas o explosivos constituye una infracción MUY GRAVE?",
+      "opciones": [
+        "A) La fabricación o tenencia de armas reglamentadas sin autorización, sin que se causen daños.",
+        "B) La fabricación, manipulación o tenencia de explosivos incumpliendo la normativa, cuando se causen daños o situaciones de peligro para la vida o la integridad de las personas.",
+        "C) La portación o exhibición de armas peligrosas de modo negligente fuera de los lugares habilitados."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 35 de la LPSC clasifica como infracción Muy Grave la fabricación, manipulación, almacenamiento, tenencia, comercio, transporte y distribución de armas, explosivos, cartuchería o artículos pirotécnicos, incumpliendo la normativa aplicable o la autorización concedida, cuando se causen daños o situaciones de peligro para la vida o la integridad física de las personas. La opción A sería Grave (Art. 36) y la opción C también sería Grave (Art. 36).",
+      "id": 1784031491802.864
+    },
+    {
+      "pregunta": "De acuerdo con la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana, ¿cuál de las siguientes conductas se considera una infracción GRAVE?",
+      "opciones": [
+        "A) La celebración de reuniones en lugares de tránsito público sin previa comunicación.",
+        "B) La negativa a identificarse a requerimiento de la autoridad o de sus agentes.",
+        "C) La ocupación de cualquier inmueble ajeno en contra de la voluntad de su tenedor."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36 de la LPSC establece como infracción Grave 'La desobediencia o la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones, cuando no sean constitutivas de delito, así como la negativa a identificarse a requerimiento de la autoridad o de sus agentes o la alegación de datos falsos o inexactos'. La opción A y C son infracciones Leves (Art. 37).",
+      "id": 1784031491802.467
+    },
+    {
+      "pregunta": "Conforme a la LPSC, ¿qué tipo de infracción constituye causar desórdenes en las vías, espacios o establecimientos públicos que perturben gravemente la seguridad ciudadana?",
+      "opciones": [
+        "A) Infracción Muy Grave.",
+        "B) Infracción Grave.",
+        "C) Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36 de la LPSC considera una infracción Grave 'Causar desórdenes en las vías, espacios o establecimientos públicos, o la perturbación grave de la seguridad ciudadana en ellos'.",
+      "id": 1784031491802.0388
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana, ¿cuál de las siguientes es una infracción de carácter LEVE?",
+      "opciones": [
+        "A) La intrusión en inmuebles o instalaciones de uso público o privado sin autorización y fuera de las horas de apertura.",
+        "B) La omisión o la insuficiencia en las medidas para garantizar la conservación o custodia de la documentación personal.",
+        "C) La ejecución de actos que atenten contra la libertad o indemnidad sexual, o la realización de actos de exhibición obscena cuando no constituya infracción penal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 37 de la LPSC califica como infracción Leve 'La omisión o la insuficiencia en las medidas para garantizar la conservación o custodia de la documentación personal (DNI o pasaporte)'. Las opciones A y C son infracciones Graves (Art. 36).",
+      "id": 1784031491802.212
+    },
+    {
+      "pregunta": "Conforme a la Ley Orgánica 4/2000, sobre Derechos y Libertades de los Extranjeros en España, ¿qué tipo de infracción supone el retraso, de hasta tres meses, en la solicitud de renovación de autorizaciones caducadas?",
+      "opciones": [
+        "A) Infracción Grave.",
+        "B) Infracción Leve.",
+        "C) Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 52 de la LOEX establece como infracción Leve 'El retraso, hasta tres meses, en la solicitud de renovación de las autorizaciones una vez hayan caducado'.",
+      "id": 1784031491802.0374
+    },
+    {
+      "pregunta": "Según la LOEX, encontrarse en España sin prórroga de estancia o con la autorización de residencia caducada por más de tres meses, es considerado una infracción:",
+      "opciones": [
+        "A) Leve.",
+        "B) Grave.",
+        "C) Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 53 de la LOEX tipifica como infracción Grave 'Encontrarse irregularmente en territorio español, por no haber obtenido la prórroga de estancia, carecer de autorización de residencia o tenerla caducada por más de tres meses'.",
+      "id": 1784031491802.336
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción, según la Ley Orgánica 4/2000, implica el favorecimiento o la facilitación de la inmigración clandestina?",
+      "opciones": [
+        "A) Infracción Grave.",
+        "B) Infracción Leve.",
+        "C) Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 54 de la LOEX considera como infracción Muy Grave 'El favorecimiento o la facilitación de la inmigración clandestina o del tránsito con destino a España o a través de España con rumbo a otro Estado'.",
+      "id": 1784031491802.8152
+    },
+    {
+      "pregunta": "De acuerdo con la Ley Orgánica 4/2010, del Régimen Disciplinario del Cuerpo Nacional de Policía, ¿cuál de las siguientes constituye una falta MUY GRAVE?",
+      "opciones": [
+        "A) La grave desobediencia a las órdenes legítimas de un superior.",
+        "B) Cualquier conducta constitutiva de delito doloso relacionada con el servicio o que cause grave daño a la Administración.",
+        "C) El retraso o la negligencia en el cumplimiento de las funciones recibidas, si no constituye falta grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7 de la LO 4/2010 tipifica como falta Muy Grave 'Cualquier conducta constitutiva de delito doloso relacionada con el servicio o que cause grave daño a la Administración o a los ciudadanos'. La opción A es una falta Grave (Art. 8) y la opción C es una falta Leve (Art. 9).",
+      "id": 1784031491802.9277
+    },
+    {
+      "pregunta": "Conforme al Régimen Disciplinario del CNP, la falta de consideración o el trato gravemente incorrecto con los ciudadanos, subordinados o superiores, se clasifica como:",
+      "opciones": [
+        "A) Falta Leve.",
+        "B) Falta Muy Grave.",
+        "C) Falta Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 8 de la LO 4/2010 establece como falta Grave 'La falta de consideración o el trato gravemente incorrecto con los ciudadanos, los subordinados, los superiores o los compañeros'.",
+      "id": 1784031491802.6018
+    },
+    {
+      "pregunta": "Según el Régimen Disciplinario del Cuerpo Nacional de Policía, consumir bebidas alcohólicas durante el servicio es una:",
+      "opciones": [
+        "A) Falta Leve, si no hay afectación del servicio.",
+        "B) Falta Grave.",
+        "C) Falta Muy Grave, por atentar contra el deber de fidelidad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8 de la LO 4/2010 considera falta Grave 'El consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de drogas tóxicas, estupefacientes o sustancias psicotrópicas'.",
+      "id": 1784031491802.7476
+    },
+    {
+      "pregunta": "¿Qué categoría disciplinaria corresponde al retraso o la negligencia en el cumplimiento de las funciones u órdenes recibidas, si esta conducta no alcanza la entidad de falta grave?",
+      "opciones": [
+        "A) Falta Grave.",
+        "B) Falta Leve.",
+        "C) Falta Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 9 de la LO 4/2010 clasifica como falta Leve 'El retraso o la negligencia en el cumplimiento de las funciones u órdenes recibidas, si no constituye falta grave'.",
+      "id": 1784031491802.4023
+    },
+    {
+      "pregunta": "Según la Ley 5/2014 de Seguridad Privada, ¿cuál de las siguientes infracciones cometidas por una empresa de seguridad privada se considera MUY GRAVE?",
+      "opciones": [
+        "A) La no comunicación a la autoridad competente de los contratos de prestación de servicios en los plazos reglamentarios.",
+        "B) La prestación de servicios de seguridad privada a terceros sin contar con la preceptiva autorización o inscripción.",
+        "C) El retraso injustificado en la comunicación de altas o bajas del personal de seguridad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 57, apartado a) de la Ley 5/2014, tipifica como infracción Muy Grave 'La prestación de servicios de seguridad privada a terceros o la realización de actividades de seguridad privada sin contar con la preceptiva autorización o inscripción'. La opción A es Grave (Art. 58) y la opción C es Leve (Art. 59).",
+      "id": 1784031491802.9568
+    },
+    {
+      "pregunta": "En el contexto de la Ley 5/2014 de Seguridad Privada, ¿qué tipo de infracción comete una empresa que incumple el deber de guardar reserva o confidencialidad sobre la información o datos conocidos en el ejercicio de su actividad?",
+      "opciones": [
+        "A) Infracción Muy Grave.",
+        "B) Infracción Grave.",
+        "C) Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 58, apartado d) de la Ley 5/2014, clasifica como infracción Grave 'El incumplimiento del deber de guardar reserva o confidencialidad sobre la información o datos conocidos en el ejercicio de la actividad de seguridad'.",
+      "id": 1784031491802.8623
+    },
+    {
+      "pregunta": "Para el personal de seguridad privada, ¿qué categoría de infracción le corresponde a quien presta funciones de seguridad privada sin estar en posesión de la Tarjeta de Identidad Profesional (TIP) o acreditación?",
+      "opciones": [
+        "A) Infracción Leve.",
+        "B) Infracción Grave.",
+        "C) Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 61, apartado a) de la Ley 5/2014, establece como infracción Muy Grave para el personal de seguridad privada 'La prestación de funciones de seguridad privada sin estar en posesión de la correspondiente Tarjeta de Identidad Profesional (TIP) o acreditación'.",
+      "id": 1784031491802.3843
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción es la falta de portación de la Tarjeta de Identidad Profesional (TIP) por el personal de seguridad privada durante la prestación del servicio?",
+      "opciones": [
+        "A) Infracción Muy Grave.",
+        "B) Infracción Leve.",
+        "C) Infracción Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 63, apartado b) de la Ley 5/2014, considera una infracción Leve para el personal de seguridad privada 'La falta de portación de la Tarjeta de Identidad Profesional (TIP) o de la indumentaria/uniforme reglamentario durante la prestación del servicio'.",
+      "id": 1784031491802.6907
     }
   ],
   "preguntasImpugnadas": []
