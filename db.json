@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T15:31:12.798Z",
+  "ultimoSync": "2026-07-14T15:31:45.240Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -1104,6 +1104,171 @@
       "respuestaCorrecta": 1,
       "explicacion": "El Artículo 63, apartado b) de la Ley 5/2014, considera una infracción Leve para el personal de seguridad privada 'La falta de portación de la Tarjeta de Identidad Profesional (TIP) o de la indumentaria/uniforme reglamentario durante la prestación del servicio'.",
       "id": 1784031491802.6907
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes acciones es una función del Consejo de Ministros, según el Art. 5 de la Ley 50/1997?",
+      "opciones": [
+        "Dirigir la política interior y exterior de España.",
+        "Aprobar los proyectos de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado.",
+        "Resolver los conflictos de atribuciones que surjan entre los diferentes Ministerios."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 5 de la Ley 50/1997 establece que el Consejo de Ministros es el encargado de 'Aprobar los proyectos de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado'. Las otras opciones corresponden a funciones del Gobierno o del Presidente del Gobierno.",
+      "id": 1784043105240.277
+    },
+    {
+      "pregunta": "Según el Art. 21 de la Ley 50/1997, ¿cuál de las siguientes acciones NO PUEDE realizar el Gobierno en funciones?",
+      "opciones": [
+        "Adoptar las medidas necesarias para la ejecución de los tratados e instrumentos internacionales en casos de urgencia debidamente acreditados.",
+        "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+        "Crear, modificar y suprimir los órganos directivos de los Departamentos ministeriales en casos de razones de interés general."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 21 de la Ley 50/1997 establece explícitamente que el Gobierno en funciones NO PUEDE 'Aprobar el Proyecto de Ley de Presupuestos Generales del Estado'.",
+      "id": 1784043105240.0393
+    },
+    {
+      "pregunta": "Conforme al Art. 2.2 de la Ley 50/1997, ¿cuál es una función ordinaria del Presidente del Gobierno?",
+      "opciones": [
+        "Declarar los estados de alarma y de excepción.",
+        "Crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales y las Secretarías de Estado.",
+        "Disponer la emisión de Deuda Pública cuando haya sido autorizado por Ley."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 2.2 de la Ley 50/1997 atribuye al Presidente del Gobierno la función de 'Crear, modificar y suprimir, por Real Decreto, los Departamentos Ministeriales y las Secretarías de Estado'. Las otras opciones corresponden a funciones del Consejo de Ministros.",
+      "id": 1784043105240.8704
+    },
+    {
+      "pregunta": "Según el Art. 21.4 de la Ley 50/1997, ¿qué facultad constitucional NO PUEDE ejercer el Presidente del Gobierno en funciones?",
+      "opciones": [
+        "Impartir instrucciones a los demás miembros del Gobierno.",
+        "Proponer al Rey la disolución de las Cortes Generales o de alguna de sus Cámaras (Congreso o Senado).",
+        "Resolver los conflictos de atribuciones que surjan entre los diferentes Ministerios."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 21.4 de la Ley 50/1997 prohíbe específicamente al Presidente del Gobierno en funciones 'Proponer al Rey la disolución de las Cortes Generales o de alguna de sus Cámaras (Congreso o Senado)'.",
+      "id": 1784043105240.5251
+    },
+    {
+      "pregunta": "De acuerdo con el Art. 1 del RD 207/2024, ¿cuál de las siguientes no es una función propia del Ministro del Interior?",
+      "opciones": [
+        "La dirección de las competencias del Ministerio en materia de Administración Penitenciaria.",
+        "La dirección y coordinación de la cooperación policial internacional.",
+        "Las competencias en materia de protección civil, tráfico, seguridad vial y gestión de procesos electorales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 1 del RD 207/2024 detalla las funciones del Ministro del Interior, donde no se incluye 'la dirección y coordinación de la cooperación policial internacional'. Esta función, según el Art. 2 del mismo RD, corresponde al Secretario de Estado de Seguridad.",
+      "id": 1784043105240.0408
+    },
+    {
+      "pregunta": "Según el Art. 2 del RD 207/2024, la dirección, impulso y coordinación de las actuaciones en materia de crimen organizado, terrorismo, trata de seres humanos, tráfico de drogas y delitos conexos, es competencia de:",
+      "opciones": [
+        "El Ministro del Interior.",
+        "El Secretario de Estado de Seguridad.",
+        "La Dirección General de la Policía."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 2 del RD 207/2024 atribuye al Secretario de Estado de Seguridad la función de 'La dirección, impulso y coordinación de las actuaciones en materia de crimen organizado, terrorismo, trata de seres humanos, tráfico de drogas y delitos conexos'.",
+      "id": 1784043105240.3484
+    },
+    {
+      "pregunta": "Conforme al Art. 3 del RD 207/2024, ¿cuál es una de las funciones del Director General de la Policía?",
+      "opciones": [
+        "La dirección, coordinación y supervisión de los órganos directivos dependientes de la Secretaría de Estado.",
+        "La gestión de los recursos humanos, materiales y financieros asignados a la Policía Nacional.",
+        "La gestión de las competencias relativas al derecho de reunión y manifestación."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 3 del RD 207/2024 establece que el Director General de la Policía tiene entre sus funciones 'La gestión de los recursos humanos, materiales y financieros asignados a la Policía Nacional'.",
+      "id": 1784043105240.5889
+    },
+    {
+      "pregunta": "La inspección, comprobación y evaluación de los servicios, unidades y centros de la Policía Nacional y la Guardia Civil, a través de la Inspección de Personal y Servicios de Seguridad, es una función de:",
+      "opciones": [
+        "El Secretario de Estado de Seguridad.",
+        "La Dirección General de Coordinación y Estudios (DGCOE).",
+        "El Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el Art. 6 del RD 207/2024, es una función de la Dirección General de Coordinación y Estudios la 'Inspección, comprobación y evaluación de los servicios, unidades y centros de la Policía Nacional y la Guardia Civil (a través de la Inspección de Personal y Servicios de Seguridad)'.",
+      "id": 1784043105240.085
+    },
+    {
+      "pregunta": "Según el Art. 2.3 del RD 207/2024, ¿cuál de las siguientes es una función del Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO)?",
+      "opciones": [
+        "La propuesta y ejecución de la política del Gobierno en relación con la administración general de la seguridad ciudadana.",
+        "La recepción, integración y análisis de la información estratégica sobre delincuencia organizada, terrorismo y radicalismo violento.",
+        "El establecimiento de criterios de coordinación para la gestión de procesos electorales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 2.3 del RD 207/2024 indica que una función del CITCO es la 'Recepción, integración y análisis de la información estratégica sobre delincuencia organizada, terrorismo y radicalismo violento'.",
+      "id": 1784043105240.4578
+    },
+    {
+      "pregunta": "Cuál de las siguientes unidades integradas es gestionada operativamente por el Centro de Inteligencia contra el Terrorismo y el Crimen Organizado (CITCO), conforme al Art. 2.3 del RD 207/2024?",
+      "opciones": [
+        "La Dirección General de la Guardia Civil (DGGC).",
+        "La Unidad Nacional de Retirada de Contenidos Ilícitos en Internet (UNECI).",
+        "La Inspección de Personal y Servicios de Seguridad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 2.3 del RD 207/2024 menciona que el CITCO tiene la 'Gestión operativa de las unidades integradas: Unidad Nacional de Retirada de Contenidos Ilícitos en Internet (UNECI), Oficina Nacional de Información sobre Pasajeros (ONIP/PIU) y la Unidad de Policía Judicial para Delitos de Terrorismo (TEPOL)'.",
+      "id": 1784043105240.7256
+    },
+    {
+      "pregunta": "Según el Art. 97 de la CE y Art. 1.1 de la Ley del Gobierno, ¿cuál de las siguientes es una función del Gobierno?",
+      "opciones": [
+        "Aprobar los Real Decreto-Leyes y los Real Decreto Legislativos.",
+        "Dirigir la Administración civil y militar.",
+        "Proponer al Rey la convocatoria de un referéndum consultivo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 97 de la CE y Art. 1.1 de la Ley del Gobierno establecen que el Gobierno debe 'Dirigir la Administración civil y militar'. La primera opción es función del Consejo de Ministros, y la tercera es una prohibición del Presidente en funciones.",
+      "id": 1784043105240.0703
+    },
+    {
+      "pregunta": "El mando superior de las Fuerzas y Cuerpos de Seguridad del Estado (FCSE) es una función atribuida a:",
+      "opciones": [
+        "El Secretario de Estado de Seguridad (SES).",
+        "El Director General de la Policía (DGP).",
+        "El Ministro del Interior."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Según el Art. 1 del RD 207/2024, el 'Mando superior de las Fuerzas y Cuerpos de Seguridad del Estado (FCSE)' corresponde al Ministro del Interior.",
+      "id": 1784043105240.9417
+    },
+    {
+      "pregunta": "Una de las funciones de la Dirección General de Coordinación y Estudios (DGCOE), según el Art. 6 del RD 207/2024, es:",
+      "opciones": [
+        "Establecer el programa político del Gobierno.",
+        "Elaborar planes directores, estratégicos y operativos en materia de seguridad ciudadana, supervisando su ejecución.",
+        "Acordar la negociación y firma de Tratados internacionales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 6 del RD 207/2024 especifica que la DGCOE tiene entre sus funciones la 'Elaboración de planes directores, estratégicos y operativos en materia de seguridad ciudadana, supervisando su ejecución'.",
+      "id": 1784043105240.6309
+    },
+    {
+      "pregunta": "Según la Ley 50/1997, ¿quién tiene la potestad de 'Disponer la emisión de Deuda Pública o contraer crédito, cuando haya sido autorizado por Ley'?",
+      "opciones": [
+        "El Presidente del Gobierno.",
+        "El Consejo de Ministros.",
+        "El Ministro de Economía y Hacienda, sin necesidad de autorización expresa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 5 de la Ley 50/1997 atribuye al Consejo de Ministros la función de 'Disponer la emisión de Deuda Pública o contraer crédito, cuando haya sido autorizado por Ley'.",
+      "id": 1784043105240.547
+    },
+    {
+      "pregunta": "La gestión de los recursos humanos, materiales y financieros asignados a la Policía Nacional es competencia de:",
+      "opciones": [
+        "El Secretario de Estado de Seguridad.",
+        "El Ministro del Interior.",
+        "El Director General de la Policía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Según el Art. 3 del RD 207/2024, el Director General de la Policía es el responsable de 'La gestión de los recursos humanos, materiales y financieros asignados a la Policía Nacional'.",
+      "id": 1784043105240.132
     }
   ],
   "preguntasImpugnadas": []
