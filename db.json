@@ -159,7 +159,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T09:34:14.369Z",
+  "ultimoSync": "2026-07-14T10:13:28.106Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -170,5 +170,16 @@
       "blanco": 2
     }
   ],
-  "flashcardsGeneradas": []
+  "flashcardsGeneradas": [],
+  "documentosTest": [
+    {
+      "id": 1784024008106,
+      "nombre": "INFRACIONES",
+      "filename": "infraciiones generales.pdf",
+      "path": "test_docs/files/infraciiones_generales.pdf",
+      "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/test_docs/files/infraciiones_generales.pdf",
+      "mimeType": "application/pdf"
+    }
+  ],
+  "preguntasGeneradas": []
 }
