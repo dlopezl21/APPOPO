@@ -96,9 +96,79 @@
       ]
     }
   },
-  "preguntasFalladas": [],
+  "preguntasFalladas": [
+    {
+      "pregunta": "Según el Art. 35 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), la intrusión en recintos o accesos de infraestructuras o instalaciones donde se presten servicios básicos para la comunidad, incluyendo su sobrevuelo, será considerada una infracción muy grave cuando:",
+      "opciones": [
+        "Se produzca en horas de apertura al público.",
+        "Se haya producido un riesgo cierto para la vida o la integridad física de las personas.",
+        "No se haya comunicado previamente a la autoridad competente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 35 de la LPSC establece como infracción muy grave las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se presten servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos o accesos de las mismas, incluyendo su sobrevuelo, 'cuando se haya producido un riesgo cierto para la vida o la integridad física de las personas'.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T09:34:14.369Z"
+    },
+    {
+      "pregunta": "De acuerdo con el Art. 54 de la LOEX, ¿qué acción se considera una infracción muy grave?",
+      "opciones": [
+        "Contratar a trabajadores extranjeros que carezcan de la correspondiente autorización de trabajo.",
+        "La simulación de la relación laboral con un extranjero, cuando la pretensión sea la de obtener indebidamente autorizaciones de residencia y trabajo.",
+        "Encontrarse irregularmente en territorio español por carecer de autorización de residencia o tenerla caducada por más de tres meses."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 54 de la LOEX tipifica como infracción muy grave 'La simulación de la relación laboral con un extranjero, cuando la pretensión sea la de obtener indebidamente autorizaciones de residencia y trabajo'. Las opciones A y C corresponden a infracciones graves según el Art. 53 de la LOEX.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T09:34:14.369Z"
+    },
+    {
+      "pregunta": "Para el Personal de Seguridad Privada (Art. 61 de la Ley 5/2014), ¿cuál de las siguientes se considera una infracción muy grave?",
+      "opciones": [
+        "La falta de respeto o de auxilio debido a los miembros de las Fuerzas y Cuerpos de Seguridad.",
+        "La vulneración de derechos fundamentales o libertades públicas en el ejercicio de sus funciones.",
+        "El ejercicio de funciones que no correspondan a la categoría profesional o habilitación poseída."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 61.b) de la Ley 5/2014 califica como infracción muy grave para el personal de seguridad privada 'La vulneración de derechos fundamentales o libertades públicas en el ejercicio de sus funciones'. Las opciones A y C son infracciones graves según el Art. 62.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T09:34:14.369Z"
+    },
+    {
+      "pregunta": "Según el Art. 62 de la Ley 5/2014, ¿cuál de las siguientes conductas se considera una infracción grave para el personal de seguridad privada?",
+      "opciones": [
+        "El abandono del servicio de vigilancia sin causa justificada y sin haber sido relevado.",
+        "La falta de portación de la Tarjeta de Identidad Profesional (TIP) durante la prestación del servicio.",
+        "El trato incorrecto o desconsiderado con los ciudadanos."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Art. 62.d) de la Ley 5/2014 establece como infracción grave para el personal de seguridad privada 'El abandono del servicio de vigilancia sin causa justificada y sin haber sido relevado'. Las opciones B y C son infracciones leves según el Art. 63.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T09:34:14.369Z"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes acciones se califica como infracción leve según el Art. 37 de la LPSC?",
+      "opciones": [
+        "La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos o culturales, solemnidades y oficios religiosos u otras reuniones masivas.",
+        "La portación, exhibición o uso de armas u objetos peligrosos de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados para su uso.",
+        "La negativa a la disolución de reuniones y manifestaciones en lugares de tránsito público decretada por la autoridad competente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Art. 37 de la LPSC clasifica como infracción leve 'La portación, exhibición o uso de armas u objetos peligrosos de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados para su uso'. Las opciones A y C se consideran infracciones graves según el Art. 36 de la LPSC.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T09:34:14.369Z"
+    }
+  ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T09:08:33.650Z",
-  "historialExamenes": [],
+  "ultimoSync": "2026-07-14T09:34:14.369Z",
+  "historialExamenes": [
+    {
+      "fecha": "2026-07-14T09:34:14.369Z",
+      "tipo": "documento",
+      "nota": 3.67,
+      "aciertos": 8,
+      "fallos": 5,
+      "blanco": 2
+    }
+  ],
   "flashcardsGeneradas": []
 }
