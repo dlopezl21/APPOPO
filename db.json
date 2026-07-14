@@ -173,7 +173,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T11:44:28.070Z",
+  "ultimoSync": "2026-07-14T11:44:45.974Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -525,6 +525,171 @@
       "respuestaCorrecta": 0,
       "explicacion": "Según el Artículo 35 de la Ley Orgánica 4/2015 (LPSC), 'Proyectar haces de luz sobre los pilotos o conductores de medios de transporte que puedan deslumbrarles o distraer su atención y provocar accidentes' es una infracción Muy Grave.",
       "id": 1784029155131.461
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), la fabricación, manipulación, almacenamiento, tenencia, comercio, transporte y distribución de armas, reglamentadas o no, explosivos, cartuchería o artículos pirotécnicos, incumpliendo la normativa aplicable o la autorización concedida, cuando se causen daños o situaciones de peligro para la vida o la integridad de las personas, se considera una infracción:",
+      "opciones": [
+        "Leve",
+        "Grave",
+        "Muy Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 35 de la LPSC clasifica esta acción como una Infracción Muy Grave.",
+      "id": 1784029485974.9478
+    },
+    {
+      "pregunta": "En el contexto de la LPSC (Art. 36), la negativa a identificarse a requerimiento de la autoridad o de sus agentes o la alegación de datos falsos o inexactos constituye una infracción:",
+      "opciones": [
+        "Leve",
+        "Grave",
+        "Muy Grave"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el Artículo 36 de la LPSC, la desobediencia o la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones (cuando no sean constitutivas de delito), así como la negativa a identificarse, son Infracciones Graves.",
+      "id": 1784029485974.9146
+    },
+    {
+      "pregunta": "Conforme al Artículo 37 de la LPSC, la perturbación del desarrollo de una reunión o manifestación lícita se considera una infracción:",
+      "opciones": [
+        "Muy Grave",
+        "Grave",
+        "Leve"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 37 de la LPSC establece que la perturbación del desarrollo de una reunión o manifestación lícita es una Infracción Leve.",
+      "id": 1784029485974.6077
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2000, sobre Derechos y Libertades de los Extranjeros en España (LOEX), el retraso, hasta tres meses, en la solicitud de renovación de las autorizaciones una vez hayan caducado, se clasifica como una infracción:",
+      "opciones": [
+        "Grave",
+        "Leve",
+        "Muy Grave"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 52 de la LOEX tipifica esta acción como una Infracción Leve.",
+      "id": 1784029485974.458
+    },
+    {
+      "pregunta": "De acuerdo con el Artículo 53 de la LOEX, incurrir en ocultación dolosa o falsedad grave en el cumplimiento de la obligación de poner en conocimiento de las autoridades los cambios que afecten a la nacionalidad, estado civil o domicilio, se considera una infracción:",
+      "opciones": [
+        "Leve",
+        "Muy Grave",
+        "Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 53 de la LOEX establece que incurrir en ocultación dolosa o falsedad grave en la comunicación de cambios relevantes es una Infracción Grave.",
+      "id": 1784029485974.7036
+    },
+    {
+      "pregunta": "Según el Artículo 54 de la LOEX, la simulación de la relación laboral con un extranjero, cuando la pretensión sea la de obtener indebidamente autorizaciones de residencia y trabajo, constituye una infracción:",
+      "opciones": [
+        "Grave",
+        "Muy Grave",
+        "Leve"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 54 de la LOEX tipifica la simulación de relación laboral para obtener autorizaciones de forma indebida como una Infracción Muy Grave.",
+      "id": 1784029485974.5725
+    },
+    {
+      "pregunta": "En el Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), el abandono del servicio o la falta de incorporación a los llamamientos a la prestación de servicios extraordinarios, ¿qué tipo de falta es?",
+      "opciones": [
+        "Falta Grave",
+        "Falta Muy Grave",
+        "Falta Leve"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7 de la LO 4/2010 (Régimen Disciplinario del CNP) establece que el abandono del servicio o la falta de incorporación a llamamientos extraordinarios es una Falta Muy Grave.",
+      "id": 1784029485974.5774
+    },
+    {
+      "pregunta": "Según el Artículo 8 del Régimen Disciplinario del Cuerpo Nacional de Policía, el consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de drogas tóxicas, estupefacientes o sustancias psicotrópicas, se considera una falta:",
+      "opciones": [
+        "Muy Grave",
+        "Leve",
+        "Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 8 de la LO 4/2010 (Régimen Disciplinario del CNP) clasifica el consumo de alcohol o drogas durante el servicio como una Falta Grave.",
+      "id": 1784029485974.604
+    },
+    {
+      "pregunta": "Conforme al Artículo 9 del Régimen Disciplinario del Cuerpo Nacional de Policía, la falta de respeto o la consideración leve a los superiores, compañeros, subordinados o ciudadanos, se considera una falta:",
+      "opciones": [
+        "Muy Grave",
+        "Grave",
+        "Leve"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 9 de la LO 4/2010 (Régimen Disciplinario del CNP) establece que la falta de respeto o consideración leve es una Falta Leve.",
+      "id": 1784029485974.4287
+    },
+    {
+      "pregunta": "Según la Ley 5/2014, de Seguridad Privada, la prestación de servicios con armas a personas o en supuestos no autorizados o fuera de los espacios fijados en las correspondientes autorizaciones por parte de una empresa de seguridad privada, se clasifica como una infracción:",
+      "opciones": [
+        "Leve",
+        "Grave",
+        "Muy Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 57.d) de la Ley 5/2014 establece que esta acción es una Infracción Muy Grave para las empresas de seguridad privada.",
+      "id": 1784029485974.6572
+    },
+    {
+      "pregunta": "Conforme al Artículo 58 de la Ley 5/2014, la falta de adopción de las medidas obligatorias de custodia de armas o la negligencia en su conservación y almacenamiento por parte de las empresas de seguridad privada, se considera una infracción:",
+      "opciones": [
+        "Leve",
+        "Muy Grave",
+        "Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 58.e) de la Ley 5/2014 tipifica la falta de adopción de medidas de custodia de armas o negligencia en su conservación como una Infracción Grave para las empresas de seguridad privada.",
+      "id": 1784029485974.839
+    },
+    {
+      "pregunta": "Según el Artículo 59 de la Ley 5/2014, el retraso o incumplimiento de trámites o formalidades administrativas no calificados como falta grave o muy grave por parte de las empresas de seguridad privada, se considera una infracción:",
+      "opciones": [
+        "Muy Grave",
+        "Leve",
+        "Grave"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 59.c) de la Ley 5/2014 clasifica esta acción como una Infracción Leve para las empresas de seguridad privada.",
+      "id": 1784029485974.133
+    },
+    {
+      "pregunta": "En el marco de las infracciones de los Despachos de Detectives Privados (Art. 60 de la Ley 5/2014), la realización de investigaciones sobre delitos perseguibles de oficio o la no denuncia inmediata de hechos delictivos conocidos durante la investigación, se considera una infracción:",
+      "opciones": [
+        "Grave",
+        "Leve",
+        "Muy Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 60 de la Ley 5/2014 establece que la realización de investigaciones sobre delitos perseguibles de oficio o la no denuncia inmediata de hechos delictivos son Infracciones Muy Graves para los despachos de detectives privados.",
+      "id": 1784029485974.992
+    },
+    {
+      "pregunta": "Conforme al Artículo 61 de la Ley 5/2014, la prestación de funciones de seguridad privada sin estar en posesión de la correspondiente Tarjeta de Identidad Profesional (TIP) o acreditación por parte del personal de seguridad privada, se considera una infracción:",
+      "opciones": [
+        "Grave",
+        "Leve",
+        "Muy Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 61.a) de la Ley 5/2014 establece que la prestación de funciones de seguridad privada sin la TIP o acreditación es una Infracción Muy Grave para el personal de seguridad privada.",
+      "id": 1784029485974.6704
+    },
+    {
+      "pregunta": "Según el Artículo 62 de la Ley 5/2014, la retención indebida de la documentación personal de los ciudadanos por parte del personal de seguridad privada, se considera una infracción:",
+      "opciones": [
+        "Leve",
+        "Muy Grave",
+        "Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 62.b) de la Ley 5/2014 tipifica la retención indebida de documentación personal como una Infracción Grave para el personal de seguridad privada.",
+      "id": 1784029485974.339
     }
   ]
 }
