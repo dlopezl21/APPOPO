@@ -170,10 +170,70 @@
       "explicacion": "El Art. 37 de la LPSC clasifica como infracción leve 'La portación, exhibición o uso de armas u objetos peligrosos de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados para su uso'. Las opciones A y C se consideran infracciones graves según el Art. 36 de la LPSC.",
       "fallasCount": 1,
       "addedAt": "2026-07-14T09:34:14.369Z"
+    },
+    {
+      "pregunta": "Conforme al Artículo 37 de la LPSC, la perturbación del desarrollo de una reunión o manifestación lícita se considera una infracción:",
+      "opciones": [
+        "Muy Grave",
+        "Grave",
+        "Leve"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 37 de la LPSC establece que la perturbación del desarrollo de una reunión o manifestación lícita es una Infracción Leve.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T11:51:08.072Z"
+    },
+    {
+      "pregunta": "En el Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), el abandono del servicio o la falta de incorporación a los llamamientos a la prestación de servicios extraordinarios, ¿qué tipo de falta es?",
+      "opciones": [
+        "Falta Grave",
+        "Falta Muy Grave",
+        "Falta Leve"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7 de la LO 4/2010 (Régimen Disciplinario del CNP) establece que el abandono del servicio o la falta de incorporación a llamamientos extraordinarios es una Falta Muy Grave.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T11:51:08.072Z"
+    },
+    {
+      "pregunta": "Según el Artículo 8 del Régimen Disciplinario del Cuerpo Nacional de Policía, el consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de drogas tóxicas, estupefacientes o sustancias psicotrópicas, se considera una falta:",
+      "opciones": [
+        "Muy Grave",
+        "Leve",
+        "Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 8 de la LO 4/2010 (Régimen Disciplinario del CNP) clasifica el consumo de alcohol o drogas durante el servicio como una Falta Grave.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T11:51:08.072Z"
+    },
+    {
+      "pregunta": "Conforme al Artículo 9 del Régimen Disciplinario del Cuerpo Nacional de Policía, la falta de respeto o la consideración leve a los superiores, compañeros, subordinados o ciudadanos, se considera una falta:",
+      "opciones": [
+        "Muy Grave",
+        "Grave",
+        "Leve"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 9 de la LO 4/2010 (Régimen Disciplinario del CNP) establece que la falta de respeto o consideración leve es una Falta Leve.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T11:51:08.072Z"
+    },
+    {
+      "pregunta": "Conforme al Artículo 58 de la Ley 5/2014, la falta de adopción de las medidas obligatorias de custodia de armas o la negligencia en su conservación y almacenamiento por parte de las empresas de seguridad privada, se considera una infracción:",
+      "opciones": [
+        "Leve",
+        "Muy Grave",
+        "Grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 58.e) de la Ley 5/2014 tipifica la falta de adopción de medidas de custodia de armas o negligencia en su conservación como una Infracción Grave para las empresas de seguridad privada.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-14T11:51:08.072Z"
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T11:44:45.974Z",
+  "ultimoSync": "2026-07-14T11:51:08.072Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -182,6 +242,14 @@
       "aciertos": 8,
       "fallos": 5,
       "blanco": 2
+    },
+    {
+      "fecha": "2026-07-14T11:51:08.072Z",
+      "tipo": "documento",
+      "nota": 5,
+      "aciertos": 10,
+      "fallos": 5,
+      "blanco": 0
     }
   ],
   "flashcardsGeneradas": [],
