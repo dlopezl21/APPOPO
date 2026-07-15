@@ -230,10 +230,70 @@
       "explicacion": "El Artículo 58.e) de la Ley 5/2014 tipifica la falta de adopción de medidas de custodia de armas o negligencia en su conservación como una Infracción Grave para las empresas de seguridad privada.",
       "fallasCount": 1,
       "addedAt": "2026-07-14T11:51:08.072Z"
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción constituye, según la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), la intrusión en recintos o accesos de infraestructuras donde se presten servicios básicos, incluyendo su sobrevuelo, cuando se haya producido un riesgo cierto para la vida o la integridad física de las personas?",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Muy Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el Artículo 35 de la LPSC, esta conducta es una Infracción Muy Grave, ya que implica un riesgo cierto para la vida o la integridad física de las personas en infraestructuras de servicios básicos.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-15T06:33:38.637Z"
+    },
+    {
+      "pregunta": "Conforme al Artículo 54 de la LOEX, el favorecimiento o la facilitación de la inmigración clandestina o del tránsito con destino a España o a través de España con rumbo a otro Estado, ¿qué tipo de infracción se considera?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 54 de la LOEX establece que el favorecimiento o la facilitación de la inmigración clandestina es una Infracción Muy Grave, dada la seriedad de la conducta.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-15T06:33:38.637Z"
+    },
+    {
+      "pregunta": "De acuerdo con el Artículo 8 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), el consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de drogas tóxicas, estupefacientes o sustancias psicotrópicas se clasifica como:",
+      "opciones": [
+        "Falta Muy Grave.",
+        "Falta Grave.",
+        "Falta Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8 de la Ley Orgánica 4/2010 establece que esta conducta es una Falta Grave. Es importante no confundirla con una muy grave, que suele implicar daño directo o incumplimiento de deberes fundamentales.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-15T06:33:38.637Z"
+    },
+    {
+      "pregunta": "En la Ley 5/2014, de Seguridad Privada, ¿qué tipo de infracción constituye la prestación de servicios de seguridad privada a terceros o la realización de actividades de seguridad privada sin contar con la preceptiva autorización o inscripción?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Según el Artículo 57, apartado a), de la Ley 5/2014, esta conducta es una Infracción Muy Grave para las empresas de seguridad privada, ya que atenta contra el principio fundamental de la regulación del sector.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-15T06:33:38.637Z"
+    },
+    {
+      "pregunta": "Según el Artículo 62 de la Ley 5/2014, ¿qué tipo de infracción es la retención indebida de la documentación personal de los ciudadanos por parte del personal de seguridad privada?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 62, apartado b), de la Ley 5/2014 establece que la retención indebida de documentación personal de los ciudadanos por el personal de seguridad privada es una Infracción Grave.",
+      "fallasCount": 1,
+      "addedAt": "2026-07-15T06:33:38.637Z"
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T06:27:12.890Z",
+  "ultimoSync": "2026-07-15T06:33:38.637Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -266,6 +326,14 @@
       "aciertos": 0,
       "fallos": 0,
       "blanco": 15
+    },
+    {
+      "fecha": "2026-07-15T06:33:38.637Z",
+      "tipo": "documento",
+      "nota": 4.33,
+      "aciertos": 9,
+      "fallos": 5,
+      "blanco": 1
     }
   ],
   "flashcardsGeneradas": [],
