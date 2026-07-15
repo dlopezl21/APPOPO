@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T06:26:41.270Z",
+  "ultimoSync": "2026-07-15T06:27:12.890Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -1269,6 +1269,171 @@
       "respuestaCorrecta": 2,
       "explicacion": "Según el Art. 3 del RD 207/2024, el Director General de la Policía es el responsable de 'La gestión de los recursos humanos, materiales y financieros asignados a la Policía Nacional'.",
       "id": 1784043105240.132
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción constituye, según la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC), la intrusión en recintos o accesos de infraestructuras donde se presten servicios básicos, incluyendo su sobrevuelo, cuando se haya producido un riesgo cierto para la vida o la integridad física de las personas?",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Muy Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el Artículo 35 de la LPSC, esta conducta es una Infracción Muy Grave, ya que implica un riesgo cierto para la vida o la integridad física de las personas en infraestructuras de servicios básicos.",
+      "id": 1784096832890.5273
+    },
+    {
+      "pregunta": "Conforme al Artículo 36 de la LPSC, la desobediencia o la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones, ¿qué tipo de infracción constituye cuando no sean constitutivas de delito?",
+      "opciones": [
+        "Infracción Muy Grave.",
+        "Infracción Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36 de la LPSC establece que la desobediencia o la resistencia a la autoridad o a sus agentes, cuando no constituyan delito, es una Infracción Grave.",
+      "id": 1784096832890.4104
+    },
+    {
+      "pregunta": "¿Qué categoría de infracción se asigna, según el Artículo 37 de la LPSC, a la celebración de reuniones en lugares de tránsito público o de manifestaciones sin previa comunicación?",
+      "opciones": [
+        "Infracción Grave, si hay perturbación.",
+        "Infracción Leve.",
+        "Infracción Muy Grave, si afecta a infraestructuras críticas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 37 de la LPSC clasifica la celebración de reuniones o manifestaciones sin previa comunicación como una Infracción Leve. Las opciones A y C se refieren a condiciones específicas que elevarían la gravedad o la tipificación, pero la base sin más detalles es leve.",
+      "id": 1784096832890.9653
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2000, sobre Derechos y Libertades de los Extranjeros en España (LOEX), ¿qué tipo de infracción constituye encontrarse irregularmente en territorio español por no haber obtenido la prórroga de estancia, carecer de autorización de residencia o tenerla caducada por más de tres meses?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Muy Grave.",
+        "Infracción Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 53 de la LOEX tipifica como Infracción Grave el encontrarse irregularmente en territorio español por los motivos mencionados, incluyendo la caducidad de la autorización de residencia por más de tres meses.",
+      "id": 1784096832890.9226
+    },
+    {
+      "pregunta": "Conforme al Artículo 54 de la LOEX, el favorecimiento o la facilitación de la inmigración clandestina o del tránsito con destino a España o a través de España con rumbo a otro Estado, ¿qué tipo de infracción se considera?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 54 de la LOEX establece que el favorecimiento o la facilitación de la inmigración clandestina es una Infracción Muy Grave, dada la seriedad de la conducta.",
+      "id": 1784096832890.4119
+    },
+    {
+      "pregunta": "De acuerdo con el Artículo 52 de la LOEX, ¿qué tipo de infracción es el retraso, hasta tres meses, en la solicitud de renovación de las autorizaciones una vez que hayan caducado?",
+      "opciones": [
+        "Infracción Muy Grave.",
+        "Infracción Leve.",
+        "Infracción Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 52 de la LOEX clasifica el retraso de hasta tres meses en la solicitud de renovación de autorizaciones caducadas como una Infracción Leve.",
+      "id": 1784096832890.889
+    },
+    {
+      "pregunta": "Según el Artículo 7 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), el acoso laboral, sexual y por razón de sexo se considera:",
+      "opciones": [
+        "Falta Grave.",
+        "Falta Muy Grave.",
+        "Falta Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7 de la Ley Orgánica 4/2010, de Régimen Disciplinario del Cuerpo Nacional de Policía, tipifica el acoso laboral, sexual y por razón de sexo como una Falta Muy Grave.",
+      "id": 1784096832890.7573
+    },
+    {
+      "pregunta": "De acuerdo con el Artículo 8 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), el consumo de bebidas alcohólicas durante el servicio o prestarlo en estado de embriaguez o bajo los efectos de drogas tóxicas, estupefacientes o sustancias psicotrópicas se clasifica como:",
+      "opciones": [
+        "Falta Muy Grave.",
+        "Falta Grave.",
+        "Falta Leve."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8 de la Ley Orgánica 4/2010 establece que esta conducta es una Falta Grave. Es importante no confundirla con una muy grave, que suele implicar daño directo o incumplimiento de deberes fundamentales.",
+      "id": 1784096832890.2834
+    },
+    {
+      "pregunta": "Según el Artículo 9 del Régimen Disciplinario del Cuerpo Nacional de Policía (LO 4/2010), la falta de respeto o la consideración leve a los superiores, compañeros, subordinados o ciudadanos se considera:",
+      "opciones": [
+        "Falta Grave.",
+        "Falta Leve.",
+        "Falta Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 9 de la Ley Orgánica 4/2010 tipifica la falta de respeto o consideración leve como una Falta Leve, diferenciándola de una falta de consideración 'gravemente incorrecta' que sería grave (Art. 8).",
+      "id": 1784096832890.572
+    },
+    {
+      "pregunta": "En la Ley 5/2014, de Seguridad Privada, ¿qué tipo de infracción constituye la prestación de servicios de seguridad privada a terceros o la realización de actividades de seguridad privada sin contar con la preceptiva autorización o inscripción?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Según el Artículo 57, apartado a), de la Ley 5/2014, esta conducta es una Infracción Muy Grave para las empresas de seguridad privada, ya que atenta contra el principio fundamental de la regulación del sector.",
+      "id": 1784096832890.2761
+    },
+    {
+      "pregunta": "De acuerdo con el Artículo 58 de la Ley 5/2014, la no comunicación a la autoridad competente de los contratos de prestación de servicios o de sus modificaciones en los plazos reglamentarios se considera:",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Muy Grave.",
+        "Infracción Leve."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 58, apartado b), de la Ley 5/2014 clasifica la falta de comunicación de contratos o sus modificaciones en plazo como una Infracción Grave para las empresas de seguridad privada.",
+      "id": 1784096832890.7551
+    },
+    {
+      "pregunta": "En el contexto de las Infracciones de los Despachos de Detectives Privados (Art. 60) de la Ley 5/2014, la realización de investigaciones sobre delitos perseguibles de oficio, la no denuncia inmediata de hechos delictivos conocidos durante la investigación, o la utilización de medios técnicos que atenten contra el derecho al honor, a la intimidad personal o familiar o a la propia imagen, son:",
+      "opciones": [
+        "Infracciones Graves.",
+        "Infracciones Muy Graves.",
+        "Infracciones Leves."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 60 de la Ley 5/2014 establece que estas conductas son Infracciones Muy Graves para los despachos de detectives privados, debido a su impacto en derechos fundamentales y la administración de justicia.",
+      "id": 1784096832890.395
+    },
+    {
+      "pregunta": "Conforme al Artículo 61 de la Ley 5/2014, el ejercicio de funciones de seguridad privada con el uso de armas fuera de los servicios autorizados o sin las licencias requeridas por el personal de seguridad privada, se considera:",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 61, apartado c), de la Ley 5/2014 tipifica esta conducta como una Infracción Muy Grave para el personal de seguridad privada, dada la peligrosidad del uso indebido de armas.",
+      "id": 1784096832890.4832
+    },
+    {
+      "pregunta": "Según el Artículo 62 de la Ley 5/2014, ¿qué tipo de infracción es la retención indebida de la documentación personal de los ciudadanos por parte del personal de seguridad privada?",
+      "opciones": [
+        "Infracción Leve.",
+        "Infracción Grave.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 62, apartado b), de la Ley 5/2014 establece que la retención indebida de documentación personal de los ciudadanos por el personal de seguridad privada es una Infracción Grave.",
+      "id": 1784096832890.9246
+    },
+    {
+      "pregunta": "De acuerdo con el Artículo 63 de la Ley 5/2014, la falta de portación de la Tarjeta de Identidad Profesional (TIP) o de la indumentaria/uniforme reglamentario durante la prestación del servicio por el personal de seguridad privada, se clasifica como:",
+      "opciones": [
+        "Infracción Grave.",
+        "Infracción Leve.",
+        "Infracción Muy Grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 63, apartado b), de la Ley 5/2014 considera la falta de portación de la TIP o del uniforme reglamentario como una Infracción Leve para el personal de seguridad privada.",
+      "id": 1784096832890.2185
     }
   ],
   "preguntasImpugnadas": []
