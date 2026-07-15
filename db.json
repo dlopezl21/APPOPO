@@ -1,5 +1,17 @@
 {
   "temario": {
+    "1": {
+      "vueltas": 1,
+      "archivos": []
+    },
+    "2": {
+      "vueltas": 1,
+      "archivos": []
+    },
+    "3": {
+      "vueltas": 1,
+      "archivos": []
+    },
     "7": {
       "vueltas": 0,
       "archivos": [
@@ -12,6 +24,10 @@
           "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/temario/tema_7/ORG_MI.pdf"
         }
       ]
+    },
+    "42": {
+      "vueltas": 1,
+      "archivos": []
     }
   },
   "calendario": {
@@ -32,7 +48,12 @@
     "2026-07-14": {
       "notas": "",
       "archivos": [],
-      "temasEstudiados": [],
+      "temasEstudiados": [
+        1,
+        2,
+        3,
+        42
+      ],
       "transcripciones": [
         {
           "id": 1784025510967,
@@ -293,7 +314,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T07:08:59.454Z",
+  "ultimoSync": "2026-07-15T07:13:29.151Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
