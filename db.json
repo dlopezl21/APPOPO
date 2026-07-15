@@ -293,7 +293,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T07:08:07.492Z",
+  "ultimoSync": "2026-07-15T07:08:23.700Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -334,6 +334,14 @@
       "aciertos": 9,
       "fallos": 5,
       "blanco": 1
+    },
+    {
+      "fecha": "2026-07-15T07:08:23.700Z",
+      "tipo": "documento",
+      "nota": 0.67,
+      "aciertos": 1,
+      "fallos": 0,
+      "blanco": 14
     }
   ],
   "flashcardsGeneradas": [],
