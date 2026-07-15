@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-14T15:31:57.681Z",
+  "ultimoSync": "2026-07-15T06:25:32.692Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -270,14 +270,6 @@
   ],
   "flashcardsGeneradas": [],
   "documentosTest": [
-    {
-      "id": 1784031459275,
-      "nombre": "infraciiones generales",
-      "filename": "infraciiones generales.pdf",
-      "path": "test_docs/files/infraciiones_generales.pdf",
-      "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/test_docs/files/infraciiones_generales.pdf",
-      "mimeType": "application/pdf"
-    },
     {
       "id": 1784043072798,
       "nombre": "Funciones de organos generales",
