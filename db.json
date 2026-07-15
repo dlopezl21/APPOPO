@@ -233,7 +233,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T06:25:32.692Z",
+  "ultimoSync": "2026-07-15T06:25:38.943Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -269,16 +269,7 @@
     }
   ],
   "flashcardsGeneradas": [],
-  "documentosTest": [
-    {
-      "id": 1784043072798,
-      "nombre": "Funciones de organos generales",
-      "filename": "Funciones de organos generales.pdf",
-      "path": "test_docs/files/Funciones_de_organos_generales.pdf",
-      "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/test_docs/files/Funciones_de_organos_generales.pdf",
-      "mimeType": "application/pdf"
-    }
-  ],
+  "documentosTest": [],
   "preguntasGeneradas": [
     {
       "pregunta": "¿Cuál de las siguientes acciones se considera una Infracción Muy Grave según el artículo 35 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC)?",
