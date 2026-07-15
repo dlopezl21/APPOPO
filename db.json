@@ -37,6 +37,10 @@
         }
       ]
     },
+    "27": {
+      "vueltas": 1,
+      "archivos": []
+    },
     "28": {
       "vueltas": 1,
       "archivos": []
@@ -68,6 +72,7 @@
         1,
         2,
         3,
+        27,
         42
       ],
       "transcripciones": [
@@ -340,7 +345,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T14:55:49.065Z",
+  "ultimoSync": "2026-07-15T14:55:56.037Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
