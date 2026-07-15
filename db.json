@@ -293,7 +293,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T07:08:23.700Z",
+  "ultimoSync": "2026-07-15T07:08:59.454Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -1675,6 +1675,171 @@
       "respuestaCorrecta": 1,
       "explicacion": "El artículo 58.2.e) de la Ley 5/2014 califica como infracción grave \"La no identificación profesional, en el ejercicio de sus respectivas funciones, cuando fueren requeridos para ello por los ciudadanos.\" La negativa a identificarse ante la Autoridad o sus agentes es muy grave (Art. 58.1.e).",
       "id": 1784099287492.8584
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2010 de Régimen Disciplinario del Cuerpo Nacional de Policía, ¿cuándo se considera una falta grave el abuso de atribuciones?",
+      "opciones": [
+        "Cuando cause un perjuicio económico a la Administración.",
+        "Cuando no constituya una infracción muy grave.",
+        "Únicamente si afecta a la imagen de la Institución Policial."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8.h) de la LO 4/2010 establece que el abuso de atribuciones se considerará falta grave 'cuando no constituya infracción muy grave'. La falta muy grave, según el Artículo 7.c), es 'el abuso de atribuciones que cause grave daño a los ciudadanos, a los subordinados, a la Administración o a las entidades con personalidad jurídica'.",
+      "id": 1784099339452.121
+    },
+    {
+      "pregunta": "Conforme a la Ley Orgánica 4/2010, ¿en qué circunstancia el abandono de servicio no sería considerado una falta muy grave?",
+      "opciones": [
+        "Si se produce por motivos personales justificados.",
+        "Si existe una causa de fuerza mayor que impida comunicar a un superior dicho abandono.",
+        "Si es la primera vez que ocurre en el año natural."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7.f) de la LO 4/2010 tipifica el abandono de servicio como falta muy grave, pero añade la excepción: 'salvo que exista causa de fuerza mayor que impida comunicar a un superior dicho abandono'.",
+      "id": 1784099339452.6064
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2010, el embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas fuera del servicio se considerará una falta grave si:",
+      "opciones": [
+        "Se realiza de forma aislada, pero en un lugar público.",
+        "Tales circunstancias tienen carácter habitual o afecten a la imagen del Cuerpo Nacional de Policía.",
+        "Impide la asistencia al siguiente servicio, independientemente de la habitualidad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8.p) de la LO 4/2010 califica como falta grave 'Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas fuera del servicio, cuando tales circunstancias tengan carácter habitual o afecten a la imagen del Cuerpo Nacional de Policía. Se entenderá que existe habitualidad cuando estuvieren acreditados tres o más episodios de embriaguez o consumo de las sustancias referidas en un periodo de un año'.",
+      "id": 1784099339452.5322
+    },
+    {
+      "pregunta": "La falta de presentación o puesta a disposición inmediata en la dependencia donde estuviera destinado, o en la más próxima, en los casos de declaración del estado de sitio, constituye una falta según la LO 4/2010:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8.d) de la LO 4/2010 establece como falta grave 'La falta de presentación o puesta a disposición inmediata de la dependencia donde estuviera destinado, o en la más próxima, en los casos de declaración de los estados de excepción o sitio o, cuando así se disponga, en caso de alteración grave de la seguridad ciudadana'.",
+      "id": 1784099339453.5405
+    },
+    {
+      "pregunta": "La negativa injustificada a someterse a un reconocimiento médico, prueba de alcoholemia o de detección de drogas tóxicas, legítimamente ordenadas, a fin de constatar la capacidad psicofísica para prestar servicio, es una falta según la LO 4/2010:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 7.m) de la LO 4/2010 califica como falta muy grave 'La negativa injustificada a someterse a reconocimiento médico, prueba de alcoholemia o de detección de drogas tóxicas, estupefacientes o sustancias psicotrópicas, legítimamente ordenadas, a fin de constatar la capacidad psicofísica para prestar servicio'.",
+      "id": 1784099339453.539
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2010, ¿cuándo una falta injustificada de asistencia al servicio se considera una falta grave?",
+      "opciones": [
+        "Cuando es la primera falta en un período de tres meses.",
+        "Cuando es la tercera falta injustificada de asistencia en un período de tres meses, habiendo sido las dos anteriores objeto de sanción firme por falta leve.",
+        "Cuando la inasistencia al servicio impide la realización de una operación importante."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 8.e) de la LO 4/2010 establece como falta grave 'La tercera falta injustificada de asistencia al servicio en un período de tres meses cuando las dos anteriores hubieran sido objeto de sanción firme por falta leve'. Otras inasistencias podrían ser leves (Art. 9.c) si no constituyen una falta de mayor gravedad.",
+      "id": 1784099339453.2454
+    },
+    {
+      "pregunta": "La celebración de reuniones o manifestaciones no comunicadas en infraestructuras donde se prestan servicios básicos para la comunidad, cuando se haya generado un riesgo para la vida o la integridad física de las personas, se considera una infracción según la LO 4/2015 de Seguridad Ciudadana:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 35.1 de la LO 4/2015 de Seguridad Ciudadana tipifica como infracción muy grave 'Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas'.",
+      "id": 1784099339453.7227
+    },
+    {
+      "pregunta": "El uso público e indebido de réplicas de insignias oficiales que puedan generar engaño acerca de la condición de quien las usa, cuando no sea constitutivo de infracción penal, es una infracción según la LO 4/2015 de Seguridad Ciudadana:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36.14 de la LO 4/2015 de Seguridad Ciudadana considera una infracción grave 'El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal'.",
+      "id": 1784099339453.851
+    },
+    {
+      "pregunta": "La tenencia ilícita de sustancias psicotrópicas en lugares, vías o establecimientos públicos, aunque no estuvieran destinadas al tráfico, constituye una infracción según la LO 4/2015 de Seguridad Ciudadana:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36.16 de la LO 4/2015 de Seguridad Ciudadana establece como infracción grave 'El consumo o la tenencia ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas, aunque no estuvieran destinadas al tráfico, en lugares, vías, establecimientos públicos o transportes colectivos, así como el abandono de los instrumentos u otros efectos empleados para ello en los citados lugares'.",
+      "id": 1784099339453.6926
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción es obstaculizar el funcionamiento de los servicios de emergencia, provocando o incrementando un riesgo para la vida o integridad de las personas?",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36.5 de la LO 4/2015 de Seguridad Ciudadana considera una infracción grave 'Las acciones y omisiones que impidan u obstaculicen el funcionamiento de los servicios de emergencia, provocando o incrementando un riesgo para la vida o integridad de las personas o de daños en los bienes, o agravando las consecuencias del suceso que motive la actuación de aquéllos'.",
+      "id": 1784099339453.4314
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 4/2000 sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX), el retraso de hasta dos meses en la solicitud de renovación de una autorización una vez haya caducado se considera una infracción:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 52.b) de la LO 4/2000 (LOEX) tipifica como infracción leve 'El retraso, hasta tres meses, en la solicitud de renovación de las autorizaciones una vez hayan caducado'. En este caso, dos meses está dentro de ese límite.",
+      "id": 1784099339454.6985
+    },
+    {
+      "pregunta": "Un extranjero con autorización de residencia temporal se encuentra trabajando en España sin haber solicitado la autorización administrativa para trabajar por cuenta propia. ¿Qué tipo de infracción comete según la LOEX?",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 52.c) de la LO 4/2000 (LOEX) establece como infracción leve 'Encontrarse trabajando en España sin haber solicitado autorización administrativa para trabajar por cuenta propia, cuando se cuente con autorización de residencia temporal'.",
+      "id": 1784099339454.908
+    },
+    {
+      "pregunta": "La contratación de trabajadores extranjeros sin haber obtenido con carácter previo la correspondiente autorización de residencia y trabajo, si el hecho no constituye delito, es una infracción según la LOEX:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 54.1.d) de la LO 4/2000 (LOEX) califica como infracción muy grave 'La contratación de trabajadores extranjeros sin haber obtenido con carácter previo la correspondiente autorización de residencia y trabajo, incurriéndose en una infracción por cada uno de los trabajadores extranjeros ocupados, siempre que el hecho no constituya delito'.",
+      "id": 1784099339454.392
+    },
+    {
+      "pregunta": "¿Qué tipo de infracción comete una empresa que presta servicios de seguridad privada a terceros careciendo de la autorización o, en su caso, sin haber presentado la declaración responsable prevista para la prestación de los servicios de que se trate, según la Ley 5/2014 de Seguridad Privada?",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 57.1.a) de la Ley 5/2014 de Seguridad Privada establece como infracción muy grave 'La prestación de servicios de seguridad privada a terceros careciendo de autorización o, en su caso, sin haber presentado la declaración responsable prevista en el artículo 18.1 y 2 para la prestación de los servicios de que se trate'.",
+      "id": 1784099339454.2483
+    },
+    {
+      "pregunta": "La falta de diligencia en el cumplimiento de las respectivas funciones por parte del personal habilitado o acreditado de seguridad privada, se considera una infracción según la Ley 5/2014 de Seguridad Privada:",
+      "opciones": [
+        "Leve.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 58.2.g) de la Ley 5/2014 de Seguridad Privada tipifica como infracción grave 'La falta de diligencia en el cumplimiento de las respectivas funciones por parte del personal habilitado o acreditado'.",
+      "id": 1784099339454.4202
     }
   ],
   "preguntasImpugnadas": []
