@@ -344,15 +344,8 @@
       "addedAt": "2026-07-15T06:33:38.637Z"
     }
   ],
-  "flashcardsDificiles": [
-    {
-      "id": "f9",
-      "temaId": 14,
-      "anverso": "¿Se puede realizar una identificación policial en la vía pública?",
-      "reverso": "Sí, los agentes podrán requerirla cuando existan indicios de participación en una infracción o para prevenir un delito (art. 16 LO 4/2015)."
-    }
-  ],
-  "ultimoSync": "2026-07-16T11:00:36.404Z",
+  "flashcardsDificiles": [],
+  "ultimoSync": "2026-07-16T11:01:04.539Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -404,7 +397,16 @@
     }
   ],
   "flashcardsGeneradas": [],
-  "documentosTest": [],
+  "documentosTest": [
+    {
+      "id": 1784199664539,
+      "nombre": "INFRACCIONES",
+      "filename": "INFRACCIONES.docx",
+      "path": "test_docs/files/INFRACCIONES.docx",
+      "url": "https://raw.githubusercontent.com/dlopezl21/APPOPO/main/test_docs/files/INFRACCIONES.docx",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
   "preguntasGeneradas": [
     {
       "pregunta": "¿Cuál de las siguientes acciones se considera una Infracción Muy Grave según el artículo 35 de la Ley Orgánica 4/2015, de Protección de la Seguridad Ciudadana (LPSC)?",
