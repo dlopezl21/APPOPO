@@ -344,8 +344,15 @@
       "addedAt": "2026-07-15T06:33:38.637Z"
     }
   ],
-  "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-15T14:55:56.037Z",
+  "flashcardsDificiles": [
+    {
+      "id": "f9",
+      "temaId": 14,
+      "anverso": "¿Se puede realizar una identificación policial en la vía pública?",
+      "reverso": "Sí, los agentes podrán requerirla cuando existan indicios de participación en una infracción o para prevenir un delito (art. 16 LO 4/2015)."
+    }
+  ],
+  "ultimoSync": "2026-07-16T11:00:36.404Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
