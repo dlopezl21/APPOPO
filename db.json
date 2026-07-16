@@ -345,7 +345,7 @@
     }
   ],
   "flashcardsDificiles": [],
-  "ultimoSync": "2026-07-16T11:01:04.539Z",
+  "ultimoSync": "2026-07-16T11:01:58.001Z",
   "historialExamenes": [
     {
       "fecha": "2026-07-14T09:34:14.369Z",
@@ -1892,6 +1892,171 @@
       "respuestaCorrecta": 1,
       "explicacion": "El Artículo 58.2.g) de la Ley 5/2014 de Seguridad Privada tipifica como infracción grave 'La falta de diligencia en el cumplimiento de las respectivas funciones por parte del personal habilitado o acreditado'.",
       "id": 1784099339454.4202
+    },
+    {
+      "pregunta": "¿Qué acción, según la LO 4/2010, se considera una falta muy grave en relación con el secreto profesional?",
+      "opciones": [
+        "La violación del secreto profesional cuando no perjudique el desarrollo de la labor policial, a las entidades con personalidad jurídica o a cualquier ciudadano.",
+        "La violación del secreto profesional cuando perjudique el desarrollo de la labor policial, a cualquier ciudadano o a las entidades con personalidad jurídica.",
+        "La publicación de información reservada obtenida en el servicio sin causar un perjuicio directo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el Artículo 7, apartado h) de la LO 4/2010, 'La violación del secreto profesional cuando perjudique el desarrollo de la labor policial, a cualquier ciudadano o a las entidades con personalidad jurídica' es una falta muy grave. La opción A describe una falta grave (Artículo 8, apartado v)).",
+      "id": 1784199718001.4314
+    },
+    {
+      "pregunta": "En el contexto de la LO 4/2010, ¿cuándo se consideraría el extravío o pérdida de un distintivo de identificación una falta leve, en lugar de una grave?",
+      "opciones": [
+        "Cuando ocurre por negligencia inexcusable, pero sin dolo.",
+        "Cuando se da por simple negligencia.",
+        "Siempre que implique la pérdida de un distintivo o arma reglamentaria, será considerada grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 9, apartado e) de la LO 4/2010 establece como falta leve 'Dar lugar al extravío, pérdida o sustracción por simple negligencia, de los distintivos de identificación, del arma reglamentaria u otros medios o recursos destinados a la función policial'. En contraste, el Artículo 8, apartado m) tipifica como falta grave el extravío, pérdida o sustracción por 'negligencia inexcusable'.",
+      "id": 1784199718001.6885
+    },
+    {
+      "pregunta": "Respecto a la embriaguez o consumo de drogas según la LO 4/2010, ¿cuál de las siguientes situaciones constituye una falta muy grave?",
+      "opciones": [
+        "Embriagarse o consumir drogas tóxicas fuera del servicio, si afecta a la imagen del Cuerpo Nacional de Policía.",
+        "Embriagarse o consumir drogas tóxicas durante el servicio o realizarlo en estado de embriaguez o bajo los efectos manifiestos de los productos citados.",
+        "La tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, excepto que se derive de actuaciones propias del servicio."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7, apartado l) de la LO 4/2010 clasifica como falta muy grave 'Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas durante el servicio o realizarlo en estado de embriaguez o bajo los efectos manifiestos de los productos citados'. La opción A y C son consideradas faltas graves según el Artículo 8, apartados p) y q) respectivamente.",
+      "id": 1784199718001.8848
+    },
+    {
+      "pregunta": "Según la LO 4/2010, ¿cuándo se eleva una 'falta de colaboración manifiesta con otros miembros de las Fuerzas y Cuerpos de Seguridad' de grave a muy grave?",
+      "opciones": [
+        "Cuando no se haya comunicado previamente a la superioridad.",
+        "Cuando resulte perjudicado gravemente el servicio o se deriven consecuencias graves para la seguridad ciudadana.",
+        "Siempre que se produzca una falta de colaboración, se considera muy grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7, apartado k) de la LO 4/2010 establece como falta muy grave 'La falta de colaboración manifiesta con otros miembros de las Fuerzas y Cuerpos de Seguridad, cuando resulte perjudicado gravemente el servicio o se deriven consecuencias graves para la seguridad ciudadana'. Si no alcanza esta gravedad, es una falta grave según el Artículo 8, apartado w).",
+      "id": 1784199718001.6914
+    },
+    {
+      "pregunta": "Según la LO 4/2010, ¿cuál de las siguientes infracciones relacionadas con el abuso de atribuciones se considera muy grave?",
+      "opciones": [
+        "El abuso de atribuciones cuando no constituya infracción muy grave.",
+        "El abuso de atribuciones que cause grave daño a los ciudadanos, a los subordinados, a la Administración o a las entidades con personalidad jurídica.",
+        "El uso de atribuciones de manera incorrecta sin causar un daño significativo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 7, apartado c) de la LO 4/2010 define como falta muy grave 'El abuso de atribuciones que cause grave daño a los ciudadanos, a los subordinados, a la Administración o a las entidades con personalidad jurídica'. Si el abuso de atribuciones no causa grave daño, se consideraría una falta grave según el Artículo 8, apartado h).",
+      "id": 1784199718001.4229
+    },
+    {
+      "pregunta": "De acuerdo con la LO 4/2015 de Seguridad Ciudadana, ¿qué condición es indispensable para que las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras básicas sean consideradas una infracción muy grave?",
+      "opciones": [
+        "Que se hayan producido desórdenes públicos de cualquier tipo.",
+        "Que se haya generado un riesgo para la vida o la integridad física de las personas.",
+        "Que impidan el funcionamiento normal de la infraestructura, sin importar el riesgo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 35, apartado 1 de la LO 4/2015 establece como infracción muy grave 'Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas'.",
+      "id": 1784199718001.9656
+    },
+    {
+      "pregunta": "Según la LO 4/2015, ¿cuál de las siguientes es una infracción grave relacionada con el uso de uniformes o distintivos?",
+      "opciones": [
+        "Utilizar vehículos, uniformes o distintivos con apariencia o semejanza a los de las Fuerzas y Cuerpos de Seguridad o de las Fuerzas Armadas.",
+        "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
+        "Exhibir objetos peligrosos para la vida e integridad física de las personas con ánimo intimidatorio, siempre que no constituya delito o infracción grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 36, apartado 14 de la LO 4/2015 tipifica como infracción grave 'El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal'.",
+      "id": 1784199718001.0212
+    },
+    {
+      "pregunta": "De acuerdo con la LO 4/2015, ¿cuál es una condición para que la 'ocupación de cualquier inmueble, vivienda o edificio ajenos, o la permanencia en ellos, en ambos casos contra la voluntad de su propietario' sea una infracción leve?",
+      "opciones": [
+        "Que los actos de ocupación sean constitutivos de infracción penal.",
+        "Cuando la ocupación se realice en la vía pública para la venta ambulante no autorizada.",
+        "Cuando estas conductas no sean constitutivas de infracción penal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 37, apartado 7 de la LO 4/2015 establece como infracción leve 'La ocupación de cualquier inmueble, vivienda o edificio ajenos, o la permanencia en ellos, en ambos casos contra la voluntad de su propietario, arrendatario o titular de otro derecho sobre el mismo, cuando no sean constitutivas de infracción penal'. La segunda parte del apartado también incluye la ocupación de la vía pública para venta ambulante.",
+      "id": 1784199718001.5876
+    },
+    {
+      "pregunta": "Según la LO 4/2000 (LOEX), ¿qué situación eleva la 'tercera infracción leve' a una infracción grave?",
+      "opciones": [
+        "Siempre que se cometa una tercera infracción leve en un periodo de dos años.",
+        "Cuando en un plazo de un año anterior hubiera sido sancionado por dos faltas leves de la misma naturaleza.",
+        "Si la tercera infracción leve causa un perjuicio grave a la Administración."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 53, apartado 1.e) de la LO 4/2000 (LOEX) considera infracción grave 'La comisión de una tercera infracción leve, siempre que en un plazo de un año anterior hubiera sido sancionado por dos faltas leves de la misma naturaleza'.",
+      "id": 1784199718001.7046
+    },
+    {
+      "pregunta": "De acuerdo con la LO 4/2000 (LOEX), ¿cuándo el hecho de 'consentir la inscripción de un extranjero en el Padrón Municipal por parte del titular de una vivienda' pasa de ser una infracción grave a muy grave?",
+      "opciones": [
+        "Cuando dicha vivienda no constituya el domicilio real del extranjero, sin más requisitos.",
+        "Cuando se realice con ánimo de lucro.",
+        "Si se produce en más de una ocasión con la misma persona."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El Artículo 53, apartado 2.d) de la LO 4/2000 (LOEX) tipifica como grave el consentir la inscripción si la vivienda no es el domicilio real. Sin embargo, el Artículo 54, apartado 1.e) eleva a muy grave 'Realizar, con ánimo de lucro, la infracción prevista en la letra d) del apartado 2 del artículo anterior'.",
+      "id": 1784199718001.4583
+    },
+    {
+      "pregunta": "Conforme a la LEY 5/2014, ¿qué condición específica convierte la 'instalación o utilización de medios materiales o técnicos no homologados' en una infracción muy grave para las empresas de seguridad privada?",
+      "opciones": [
+        "Cuando la homologación sea preceptiva y sean susceptibles de causar grave daño a las personas o a los intereses generales.",
+        "Siempre que la homologación sea preceptiva, independientemente del daño potencial.",
+        "Si los medios utilizados no corresponden a los declarados en el registro de la empresa."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 57, apartado 1.d) de la LEY 5/2014 establece como infracción muy grave 'La instalación o utilización de medios materiales o técnicos no homologados cuando la homologación sea preceptiva y sean susceptibles de causar grave daño a las personas o a los intereses generales'. Si no se cumple la condición del 'grave daño', la infracción sería grave (Artículo 57, apartado 2.a)).",
+      "id": 1784199718001.2493
+    },
+    {
+      "pregunta": "Según la LEY 5/2014, ¿cuál es la diferencia clave entre una infracción grave y muy grave para el personal de seguridad privada en relación con la identificación profesional?",
+      "opciones": [
+        "La negativa a identificarse profesionalmente ante la Autoridad o sus agentes es muy grave, mientras que ante los ciudadanos es grave.",
+        "Cualquier negativa a identificarse profesionalmente se considera una infracción muy grave.",
+        "Solo es grave si el personal no porta los distintivos, no la negativa explícita."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 58, apartado 1.e) de la LEY 5/2014 califica como muy grave 'La negativa a identificarse profesionalmente, en el ejercicio de sus respectivas funciones, ante la Autoridad o sus agentes, cuando fueren requeridos para ello'. Por otro lado, el Artículo 58, apartado 2.e) clasifica como grave 'La no identificación profesional, en el ejercicio de sus respectivas funciones, cuando fueren requeridos para ello por los ciudadanos'.",
+      "id": 1784199718001.6868
+    },
+    {
+      "pregunta": "De acuerdo con la LEY 5/2014, ¿cuándo el 'abandono o la omisión injustificados del servicio' por parte del personal de seguridad privada se considera una infracción muy grave?",
+      "opciones": [
+        "Cuando se produzca dentro de la jornada laboral establecida.",
+        "Cuando afecte a la imagen de la empresa, independientemente del momento.",
+        "Siempre que implique un incumplimiento de sus deberes contractuales."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 58, apartado 1.j) de la LEY 5/2014 tipifica como muy grave 'El abandono o la omisión injustificados del servicio por parte del personal de seguridad privada, dentro de la jornada laboral establecida'.",
+      "id": 1784199718001.3628
+    },
+    {
+      "pregunta": "Según la LEY 5/2014 para empresas de seguridad privada (Artículo 57), ¿qué tipo de infracción se comete al utilizar vehículos, uniformes o distintivos con apariencia o semejanza a los de las Fuerzas y Cuerpos de Seguridad o de las Fuerzas Armadas?",
+      "opciones": [
+        "Muy grave, por crear confusión con la autoridad pública.",
+        "Grave, por incumplir la reglamentación sobre características.",
+        "Leve, si no constituye una infracción más grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Artículo 57, apartado 3.b) de la LEY 5/2014 establece como falta leve 'La utilización en los servicios de seguridad privada de vehículos, uniformes o distintivos con apariencia o semejanza a los de las Fuerzas y Cuerpos de Seguridad o de las Fuerzas Armadas'.",
+      "id": 1784199718001.4504
+    },
+    {
+      "pregunta": "Conforme a la LEY 5/2014, ¿qué acción específica por parte del personal de seguridad privada relacionada con sistemas de seguridad se considera una infracción muy grave?",
+      "opciones": [
+        "La elaboración de proyectos o ejecución de instalaciones o mantenimientos de sistemas de seguridad conectados a centrales receptoras de alarmas sin disponer de la acreditación correspondiente expedida por el Ministerio del Interior.",
+        "La elaboración de proyectos o ejecución de instalaciones de sistemas de seguridad no ajustados a las normas técnicas reglamentariamente establecidas.",
+        "La no cumplimentación, total o parcial, del documento justificativo de las revisiones obligatorias de los sistemas de seguridad."
+      ],
+      "respuestaCorrecta": 0,
+      "explicacion": "El Artículo 58, apartado 1.k) de la LEY 5/2014 tipifica como muy grave 'La elaboración de proyectos o ejecución de instalaciones o mantenimientos de sistemas de seguridad conectados a centrales receptoras de alarmas, centros de control o de videovigilancia, sin disponer de la acreditación correspondiente expedida por el Ministerio del Interior'. La opción B sería grave (Art. 58.2.j) y la opción C leve (Art. 58.3.c).",
+      "id": 1784199718001.7234
     }
   ],
   "preguntasImpugnadas": []
